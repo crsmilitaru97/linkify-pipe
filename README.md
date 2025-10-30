@@ -1,11 +1,11 @@
-# @crs/linkify
+# @crsx/linkify
 
 A lightweight utility that detects and converts plain text URLs into clickable HTML links.
 
 ## Install
 
 ```sh
-npm install @crs/linkify
+npm install @crsx/linkify
 ```
 
 ## Use
@@ -13,7 +13,7 @@ npm install @crs/linkify
 ```ts
 // app.component.ts
 import { Component } from '@angular/core';
-import { LinkifyPipe } from '@crs/linkify';
+import { LinkifyPipe } from '@crsx/linkify';
 
 @Component({
   selector: 'app-root',

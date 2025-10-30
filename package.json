@@ -1,12 +1,12 @@
 {
-  "name": "@crs/linkify",
-  "version": "1.0.0",
+  "name": "@crsx/linkify",
+  "version": "1.0.2",
   "description": "A lightweight utility that detects and converts plain text URLs into clickable HTML links",
   "author": "Cristian Militaru",
   "license": "ISC",
   "type": "module",
-  "main": "./dist/fesm2020/crs-linkify.mjs",
-  "module": "./dist/fesm2015/crs-linkify.mjs",
+  "main": "./dist/fesm2020/crsx-linkify.mjs",
+  "module": "./dist/fesm2015/crsx-linkify.mjs",
   "types": "./dist/index.d.ts",
   "files": [
     "dist",
